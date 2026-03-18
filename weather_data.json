@@ -1,0 +1,44 @@
+[
+    {
+        "date": "2026-02-25",
+        "precipitation": "Снег",
+        "temperature": -5.5,
+        "wind_direction": "Северный"
+    },
+    {
+        "date": "2026-02-26",
+        "precipitation": "Легкий снег",
+        "temperature": -3.0,
+        "wind_direction": "Северо-восточный"
+    },
+    {
+        "date": "2026-02-27",
+        "precipitation": "Дождь со снегом",
+        "temperature": 0.5,
+        "wind_direction": "Западный"
+    },
+    {
+        "date": "2026-02-28",
+        "precipitation": "Дождь",
+        "temperature": 2.0,
+        "wind_direction": "Южный"
+    },
+    {
+        "date": "2026-03-01",
+        "precipitation": "Облачно",
+        "temperature": 1.5,
+        "wind_direction": "Юго-западный"
+    },
+    {
+        "date": "2026-03-02",
+        "precipitation": "Ясно",
+        "temperature": -1.0,
+        "wind_direction": "Северный"
+    },
+    {
+        "date": "2026-03-03",
+        "precipitation": "Ясно",
+        "temperature": -2.0,
+        "wind_direction": "Северо-восточный"
+    }
+]
